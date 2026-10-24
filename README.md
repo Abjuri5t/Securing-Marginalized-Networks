@@ -1,1 +1,24 @@
 # Securing-Marginalized-Networks
+You can find and print-out a handy threat modeling worksheet [linked here](https://github.com/Abjuri5t/Securing-Marginalized-Networks/blob/main/Threat-Modeling-worksheet.pdf).
+
+## Risk Mitigation Techniques
+* Signal - protect Confidentiality of direct communications
+* Distributed backups - ensure data Integrity (see [Archive.org](https://archive.org/about/) or [DDoSecrets](https://ddosecrets.org/about))
+* Proxies - keep services Available
+* Public libraries (or your favorite piracy site (just remember to use a proxy and quarantine your webbrowser)) - keep information accessible
+* Pseudonymous or throw-away accounts - greater online privacy
+* Databroker deletion services like EasyOptOuts... None of them are that great, but Consumer Reports [published an interesting study](https://innovation.consumerreports.org/wp-content/uploads/2024/08/Data-Defense_-Evaluating-People-Search-Site-Removal-Services-.pdf) comparing deletion service effectiveness.
+* Directly-encode QR codes (note that the [QR code for this README](https://github.com/Abjuri5t/Securing-Marginalized-Networks/blob/main/qr-code.png) _directly_ encodes for "https://github.com/Abjuri5t/Securing-Marginalized-Networks/blob/main/qr-code.png") - user confidentiality and content integrity
+* Federated networks - greater ownership by users and better data control
+
+## Staying Up-to-Date on Relevant Threat Intel
+As of Fall 2026 - the best resource for learning about how to Secure Marginalized Networks, in my opinion, is the EFF's [Surveillance Self Defense](https://ssd.eff.org/) project. It includes a number of guides (tailored for language and cultural considerations) ranging from how to use specific tools to advice on threat modeling.
+CiviCERT has created the [Digital First Aid Kit](https://digitalfirstaid.org/). The site basically functions as a guided Incident Response Playbook for civil society and private individuals. I highly recommend bookmarking the site (and sharing it with friends/family) so that you can be ready for the next time someone has a digital emergency.
+Activist Checklist is a really neat project that's gained a lot of traction in response to rising fascism here in the US. They have a series of 'checklists' which non-technical activists can follow as they prepare for specific events (including this neat [Police At The Door](https://activistchecklist.org/police/) know your rights print-out). In my opinion, a number of their checklists get rather paranoid and can be insensitive to the actual needs of marginalized people - so while the site is a **great resource**, just be sure to take their checklists with a grain of salt.
+One of the most responsive threat intelligence/security news sources for activists nowadays is [404 Media](https://www.404media.co/). Similar to Activist Checklist, some of their news articles can be a bit click-baity and overblown - so just be sure that non-technical people you work with know not to take every article headline of theirs literally.
+Other useful news/threat modeling resource to keep an eye on include:
+* [Citizen Lab](https://citizenlab.ca/)
+* [The Record](https://therecord.media/) (Recorded Future News)
+* The [ACLU's Privacy & Technology](https://www.aclu.org/issues/privacy-technology) center
+
+> p.s. Yes, I feel bad about criticizing Activist Checklist and 404 Media... They are both **fantastic** projects which I - and many others - rely on for security. I'm just including these notes about their reliability because I have seen a number of non-technical readers get confused/paranoid and misunderstand what risks they should be concerned about and/or blindly take advice from these sites without considering negative impacts.
