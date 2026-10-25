@@ -26,7 +26,6 @@ Other useful news/threat modeling resource to keep an eye on include:
 ## Recommended Reading
 Granted, I'm a huge book nerd - but I have also found considerable insights into technology's impact on community building, personal safety, marginalized cultures, and activism/education from the following **awesome** books (yes, there are both non-fiction and sci-fi books listed here):
 * [Attack Surface](https://www.goodreads.com/book/show/49247283-attack-surface), by Cory Doctorow
-* [The Anxious Generation](https://www.goodreads.com/en/book/show/171681821-the-anxious-generation): How the Great Rewiring of Childhood Caused an Epidemic of Mental Illness, by Jonathan Haidt
 * [A Beautifully Foolish Endeavor](https://www.goodreads.com/book/show/49003616-a-beautifully-foolish-endeavor), by Hank Green (sequel to An Absolutely Remarkable Thing)
 * [The Digital Closet](https://www.goodreads.com/book/show/58064709-the-digital-closet): How the Internet Became Straight, by Alexander Monea, Violet Blue (Foreward)
 * [Let The Record Show](https://www.goodreads.com/book/show/54785548-let-the-record-show): A Political History of ACT UP New York, 1987-1993, by Sarah Schulman
