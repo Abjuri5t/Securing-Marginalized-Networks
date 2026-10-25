@@ -31,7 +31,7 @@ Granted, I'm a huge book nerd - but I have also found considerable insights into
 * [The Digital Closet](https://www.goodreads.com/book/show/58064709-the-digital-closet): How the Internet Became Straight, by Alexander Monea, Violet Blue (Foreward)
 * [Let The Record Show](https://www.goodreads.com/book/show/54785548-let-the-record-show): A Political History of ACT UP New York, 1987-1993, by Sarah Schulman
 * [Love in a F*cked-Up World](https://www.goodreads.com/book/show/212924187-love-in-a-f-cked-up-world): How to Build Relationships, Hook Up, and Raise Hell Together, by Dean Spade (author of Mutual Aid)
-* [On Tyranny: Twenty Lessons from the Twentieth Century](https://www.goodreads.com/book/show/33917107-on-tyranny), by Timothy Snyder `while well-meaning, the foreward to Chapter 14 actually provides a *fantastic* example of how **not** to dictate what security controls marginalized people should adopt`
+* [On Tyranny: Twenty Lessons from the Twentieth Century](https://www.goodreads.com/book/show/33917107-on-tyranny), by Timothy Snyder `while well-meaning, the foreward to Chapter 14 actually provides a _fantastic_ example of how **not** to dictate what security controls marginalized people should adopt`
 * [Reclaiming Two-Spirits](https://www.goodreads.com/book/show/58678851-reclaiming-two-spirits): Sexuality, Spiritual Renewal & Sovereignty in Native America, by Gregory D. Smithers, Raven E. Heavy Runner (Foreword)
 * [A Taste of Power](https://www.goodreads.com/book/show/913316.A_Taste_of_Power): A Black Woman's Story, by Elaine Brown
 * [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) (The Expanse #8), by James S.A. Corey
